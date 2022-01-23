@@ -1,7 +1,7 @@
 StarWarsMovies 
 
 The purpose of this project is to demonstrate a simple api call to fetch
-data from a public API 'https://swapi.dev/api/films/' and display its content
+data from a public endpoint : 'https://swapi.dev/api/films/' and display its content
 on the browser.
 
 Project demonstrated the following:
